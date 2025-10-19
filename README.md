@@ -1,1 +1,1 @@
-# Pranjal-Panging
+This is my personal website built using plain HTML, CSS, and JavaScript. It’s a simple, responsive site that shares who I am, what I do, and how to reach me — no frameworks, just clean and minimal code.
