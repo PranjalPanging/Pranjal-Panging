@@ -4,7 +4,7 @@ import type { ReactNode } from "react";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 
-export const homeMetadata: Metadata = {
+export const metadata: Metadata = {
   title: "Pranjal Panging – Interested in AI, ML, Maths & Physics",
   description:
     "Welcome to the personal website of Pranjal Panging. Explore my projects, skills in AI & Web Development, and my passion for Maths and Physics.",
@@ -27,8 +27,7 @@ export const homeMetadata: Metadata = {
 
   openGraph: {
     title: "Pranjal Panging – Interested in AI, ML, Maths & Physics",
-    description:
-      "A personal website showcasing projects, AI/ML skills, and my interests in Maths & Physics.",
+    description: "A personal website showcasing projects, .",
     url: "https://pranjal-panging.vercel.app",
     siteName: "Pranjal Panging Personal Website",
     images: [
@@ -45,7 +44,7 @@ export const homeMetadata: Metadata = {
 
   twitter: {
     card: "summary_large_image",
-    title: "Pranjal Panging – Interested in AI, ML, Maths & Physics",
+    title: "Pranjal Panging - Interested in AI, ML, Maths & Physics",
     description:
       "Showcasing projects, AI/ML skills, and my interests in Maths & Physics.",
     images: ["https://pranjal-panging.vercel.app/favicons/og-image.png"],
